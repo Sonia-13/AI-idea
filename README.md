@@ -15,12 +15,12 @@ What brought me to this problem is my uncertainty about whether I'm choosing cor
 
 ## Data and AI techniques: 
 
-  Data
-    -personal: hobbies, psychological tests, your general skills (writing, logic, communication skills etc.), film or books you like
-    -general: demand for the job, how evolving technologies can affect it, how successful people are in a specific profession
+  Data:
+    personal - hobbies, psychological tests, your general skills (writing, logic, communication skills etc.), film or books you like;
+    general - demand for the job, how evolving technologies can affect it, how successful people are in a specific profession
 
-  AI techniques 
-    -Neural Networks, supervised learning
+  AI techniques: 
+    Neural Networks, supervised learning
 
 ## How is it used: 
 Such an AI could help many young people who struggle when choosing a career.
