@@ -1,7 +1,4 @@
-# AI-idea
-Building project AI elements 
-
-Profession adviser
+## Profession adviser
 
 ## Summary:
 
